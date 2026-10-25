@@ -18,8 +18,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/exeldro/obs-shaderfilter.git
-        tag: 2.6.0
-        commit: 3517829fdd984a8c655973bf11a31a4852365ab7
+        tag: 2.6.1
+        commit: 73fb5c21a40cc7b051fabe91250ed9c3593dfa03
         x-checker-data:
           type: git
           is-main-source: true
